@@ -168,6 +168,7 @@ public class DialerCall implements VideoTechListener, StateChangedListener, Capa
   private String callSubject;
   @Nullable private PhoneAccountHandle phoneAccountHandle;
   @CallHistoryStatus private int callHistoryStatus = CALL_HISTORY_STATUS_UNKNOWN;
+  private boolean isOutgoing;
 
   @Nullable private SpamStatus spamStatus;
   private boolean isBlocked;
@@ -900,12 +901,18 @@ public class DialerCall implements VideoTechListener, StateChangedListener, Capa
           logState.dialerConnectTimeMillisElapsedRealtime == 0
               ? 0
               : SystemClock.elapsedRealtime() - logState.dialerConnectTimeMillisElapsedRealtime;
+    } else if (state == DialerCallState.DIALING || state == DialerCallState.CONNECTING) {
+      isOutgoing = true;
     }
   }
 
   @VisibleForTesting
   void setClock(Clock clock) {
     this.clock = clock;
+  }
+
+  public boolean isOutgoing() {
+    return isOutgoing;
   }
 
   public int getNumberPresentation() {

@@ -33,7 +33,6 @@ import android.telephony.CarrierConfigManager;
 import android.telephony.TelephonyManager;
 import android.widget.Toast;
 import com.android.dialer.app.R;
-import com.android.dialer.compat.SdkVersionOverride;
 import com.android.dialer.util.SettingsUtil;
 
 public class SoundSettingsFragment extends PreferenceFragment
@@ -97,7 +96,11 @@ public class SoundSettingsFragment extends PreferenceFragment
     if (hasVibrator()) {
       vibrateWhenRinging.setOnPreferenceChangeListener(this);
     } else {
-      getPreferenceScreen().removePreference(vibrateWhenRinging);
+      PreferenceScreen ps = getPreferenceScreen();
+      Preference inCallVibration = findPreference(
+          context.getString(R.string.incall_vibration_category_key));
+      ps.removePreference(vibrateWhenRinging);
+      ps.removePreference(inCallVibration);
       vibrateWhenRinging = null;
     }
 
@@ -106,8 +109,7 @@ public class SoundSettingsFragment extends PreferenceFragment
 
     TelephonyManager telephonyManager =
         (TelephonyManager) getActivity().getSystemService(Context.TELEPHONY_SERVICE);
-    if (SdkVersionOverride.getSdkVersion(Build.VERSION_CODES.M) >= Build.VERSION_CODES.M
-        && telephonyManager.canChangeDtmfToneLength()
+    if (telephonyManager.canChangeDtmfToneLength()
         && (telephonyManager.isWorldPhone() || !shouldHideCarrierSettings())) {
       dtmfToneLength.setOnPreferenceChangeListener(this);
       dtmfToneLength.setValueIndex(
