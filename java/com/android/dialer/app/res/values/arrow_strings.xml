@@ -31,4 +31,8 @@
     <string name="incall_dnd_dialog_message">In order to enable Do Not Disturb, the Phone app needs to be granted the permission to control the Do Not Disturb status.\nPlease allow it.</string>
     <string name="allow">Allow</string>
     <string name="deny">Deny</string>
+
+    <string name="type_incoming_volte">Incoming 4G voice call</string>
+    <string name="type_outgoing_volte">Outgoing 4G voice call</string>
+    <string name="type_missed_volte">Missed 4G voice call</string>
 </resources>
