@@ -169,7 +169,7 @@ endif
 
 # End Bug: 37077388
 
-LOCAL_SDK_VERSION := system_current
+#LOCAL_SDK_VERSION := system_current
 LOCAL_MODULE_TAGS := optional
 LOCAL_PACKAGE_NAME := Dialer
 LOCAL_CERTIFICATE := shared
