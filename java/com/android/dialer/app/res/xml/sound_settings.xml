@@ -71,4 +71,8 @@
 
   </PreferenceCategory>
 
+  <SwitchPreference
+    android:defaultValue="false"
+    android:key="disable_proximity_sensor_key"
+    android:title="@string/disable_proximity_sensor_title" />
 </PreferenceScreen>
