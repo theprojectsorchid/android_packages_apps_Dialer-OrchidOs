@@ -42,4 +42,7 @@
     <string name="call_log_all_calls_header">All calls</string>
 
     <string name="disable_proximity_sensor_title">Disable proximity sensor</string>
+
+    <string name="call_via">Call via</string>
+    <string name="call_via_dialog_title">Call via\u2026</string>
 </resources>
