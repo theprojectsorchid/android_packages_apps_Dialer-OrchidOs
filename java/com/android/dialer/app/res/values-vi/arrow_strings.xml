@@ -17,21 +17,22 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="incall_category_title">In-call</string>
-  <string name="incall_enable_dnd_title">Enable Do Not Disturb during calls</string>
-  <string name="incall_vibrate_outgoing_title">Vibrate on answer</string>
-  <string name="incall_vibrate_call_waiting_title">Vibrate on call waiting</string>
-  <string name="incall_vibrate_hangup_title">Vibrate on hang up</string>
-  <string name="incall_vibrate_45_title">Vibrate every minute</string>
-  <string name="incall_vibrate_45_summary">Vibrates at the 45 second mark of every minute during outgoing calls</string>
-  <string name="incall_dnd_dialog_message">In order to enable Do Not Disturb, the Phone app needs to be granted the permission to control the Do Not Disturb status.\nPlease allow it.</string>
-  <string name="allow">Allow</string>
-  <string name="deny">Deny</string>
-  <string name="type_incoming_volte">Incoming 4G voice call</string>
-  <string name="type_outgoing_volte">Outgoing 4G voice call</string>
-  <string name="type_missed_volte">Missed 4G voice call</string>
-  <string name="recentIncoming_empty">You have no incoming calls.</string>
-  <string name="recentOutgoing_empty">You have no outgoing calls.</string>
-  <string name="call_log_show_all_slots">All SIMs</string>
-  <string name="call_log_all_calls_header">All calls</string>
+  <string name="incall_category_title">Trong cuộc gọi</string>
+  <string name="incall_enable_dnd_title">Bật Đừng Làm Phiền trong khi gọi</string>
+  <string name="incall_vibrate_outgoing_title">Rung khi trả lời</string>
+  <string name="incall_vibrate_call_waiting_title">Rung khi chờ cuộc gọi</string>
+  <string name="incall_vibrate_hangup_title">Rung khi gác máy</string>
+  <string name="incall_vibrate_45_title">Rung mỗi phút</string>
+  <string name="incall_vibrate_45_summary">Rung tại giây 45 mỗi phút trong khi gọi đi</string>
+  <string name="incall_dnd_dialog_message">Để bật Đừng Làm Phiền, ứng dụng Điện thoại cần được cấp quyền để kiểm soát trạng thái Đừng Làm Phiền.\nVui lòng cho phép nó.</string>
+  <string name="allow">Cho phép</string>
+  <string name="deny">Từ chối</string>
+  <string name="type_incoming_volte">Cuộc gọi thoại 4G đến</string>
+  <string name="type_outgoing_volte">Cuộc gọi thoại 4G đi</string>
+  <string name="type_missed_volte">Cuộc gọi thoại 4G bị nhỡ</string>
+  <string name="recentIncoming_empty">Bạn có không có cuộc gọi đến.</string>
+  <string name="recentOutgoing_empty">Bạn có không có cuộc gọi đi.</string>
+  <string name="call_log_show_all_slots">Tất cả các SIM</string>
+  <string name="call_log_all_calls_header">Tất cả các cuộc gọi</string>
+  <string name="disable_proximity_sensor_title">Disable proximity sensor</string>
 </resources>

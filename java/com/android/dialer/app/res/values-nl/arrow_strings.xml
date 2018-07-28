@@ -17,21 +17,22 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="incall_category_title">In-call</string>
-  <string name="incall_enable_dnd_title">Enable Do Not Disturb during calls</string>
-  <string name="incall_vibrate_outgoing_title">Vibrate on answer</string>
-  <string name="incall_vibrate_call_waiting_title">Vibrate on call waiting</string>
-  <string name="incall_vibrate_hangup_title">Vibrate on hang up</string>
-  <string name="incall_vibrate_45_title">Vibrate every minute</string>
-  <string name="incall_vibrate_45_summary">Vibrates at the 45 second mark of every minute during outgoing calls</string>
-  <string name="incall_dnd_dialog_message">In order to enable Do Not Disturb, the Phone app needs to be granted the permission to control the Do Not Disturb status.\nPlease allow it.</string>
-  <string name="allow">Allow</string>
-  <string name="deny">Deny</string>
-  <string name="type_incoming_volte">Incoming 4G voice call</string>
-  <string name="type_outgoing_volte">Outgoing 4G voice call</string>
-  <string name="type_missed_volte">Missed 4G voice call</string>
-  <string name="recentIncoming_empty">You have no incoming calls.</string>
-  <string name="recentOutgoing_empty">You have no outgoing calls.</string>
-  <string name="call_log_show_all_slots">All SIMs</string>
-  <string name="call_log_all_calls_header">All calls</string>
+  <string name="incall_category_title">Tijdens bellen</string>
+  <string name="incall_enable_dnd_title">\"Niet storen\" inschakelen tijdens gesprekken</string>
+  <string name="incall_vibrate_outgoing_title">Trillen bij opnemen</string>
+  <string name="incall_vibrate_call_waiting_title">Trillen bij wisselgesprek</string>
+  <string name="incall_vibrate_hangup_title">Trillen bij ophangen</string>
+  <string name="incall_vibrate_45_title">Elke minuut trillen</string>
+  <string name="incall_vibrate_45_summary">Elke 45 seconden trillen tijdens uitgaande gesprekken</string>
+  <string name="incall_dnd_dialog_message">Om \"Niet storen\" in te schakelen, heeft de telefoonapp toestemming nodig om de status \"Niet storen\" in te stellen.\nGelieve dit toe te staan.</string>
+  <string name="allow">Toestaan</string>
+  <string name="deny">Weigeren</string>
+  <string name="type_incoming_volte">Inkomende spraakoproep via 4G</string>
+  <string name="type_outgoing_volte">Uitgaande spraakoproep via 4G</string>
+  <string name="type_missed_volte">Gemiste spraakoproep via 4G</string>
+  <string name="recentIncoming_empty">Geen inkomende oproepen.</string>
+  <string name="recentOutgoing_empty">Geen uitgaande oproepen.</string>
+  <string name="call_log_show_all_slots">Alle simkaarten</string>
+  <string name="call_log_all_calls_header">Alle oproepen</string>
+  <string name="disable_proximity_sensor_title">Disable proximity sensor</string>
 </resources>

@@ -17,21 +17,22 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="incall_category_title">In-call</string>
-  <string name="incall_enable_dnd_title">Enable Do Not Disturb during calls</string>
-  <string name="incall_vibrate_outgoing_title">Vibrate on answer</string>
-  <string name="incall_vibrate_call_waiting_title">Vibrate on call waiting</string>
-  <string name="incall_vibrate_hangup_title">Vibrate on hang up</string>
-  <string name="incall_vibrate_45_title">Vibrate every minute</string>
-  <string name="incall_vibrate_45_summary">Vibrates at the 45 second mark of every minute during outgoing calls</string>
-  <string name="incall_dnd_dialog_message">In order to enable Do Not Disturb, the Phone app needs to be granted the permission to control the Do Not Disturb status.\nPlease allow it.</string>
-  <string name="allow">Allow</string>
-  <string name="deny">Deny</string>
-  <string name="type_incoming_volte">Incoming 4G voice call</string>
-  <string name="type_outgoing_volte">Outgoing 4G voice call</string>
-  <string name="type_missed_volte">Missed 4G voice call</string>
-  <string name="recentIncoming_empty">You have no incoming calls.</string>
-  <string name="recentOutgoing_empty">You have no outgoing calls.</string>
-  <string name="call_log_show_all_slots">All SIMs</string>
-  <string name="call_log_all_calls_header">All calls</string>
+  <string name="incall_category_title">Arama</string>
+  <string name="incall_enable_dnd_title">Arama sırasında rahatsız etmeyini etkinleştir</string>
+  <string name="incall_vibrate_outgoing_title">Cevapladığında titre</string>
+  <string name="incall_vibrate_call_waiting_title">Arama bekletildiğinde titre</string>
+  <string name="incall_vibrate_hangup_title">Kapatıldığında titre</string>
+  <string name="incall_vibrate_45_title">Her dakika titre</string>
+  <string name="incall_vibrate_45_summary">Giden aramalarda her dakikanın 45. saniyesinde titre</string>
+  <string name="incall_dnd_dialog_message">Rahatsız etmeyini etkinleştirmek için, telefon uygulamasının rahatsız etmeyin durumunu kontrol etme iznine sahip olması gerekir.\nLütfen buna izin verin.</string>
+  <string name="allow">İzin ver</string>
+  <string name="deny">Reddet</string>
+  <string name="type_incoming_volte">Gelen 4G sesli arama</string>
+  <string name="type_outgoing_volte">Giden 4G sesli arama</string>
+  <string name="type_missed_volte">Cevapsız 4G sesli arama</string>
+  <string name="recentIncoming_empty">Gelen aramanız yok.</string>
+  <string name="recentOutgoing_empty">Giden aramanız yok.</string>
+  <string name="call_log_show_all_slots">Tüm SIMler</string>
+  <string name="call_log_all_calls_header">Tüm aramalar</string>
+  <string name="disable_proximity_sensor_title">Disable proximity sensor</string>
 </resources>
