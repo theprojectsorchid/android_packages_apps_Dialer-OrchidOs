@@ -34,5 +34,9 @@
   <string name="recentOutgoing_empty">Geen uitgaande oproepen.</string>
   <string name="call_log_show_all_slots">Alle simkaarten</string>
   <string name="call_log_all_calls_header">Alle oproepen</string>
-  <string name="disable_proximity_sensor_title">Disable proximity sensor</string>
+  <string name="disable_proximity_sensor_title">Uitschakelen nabijheidssensor</string>
+  <string name="call_via">Call via</string>
+  <string name="call_via_dialog_title">Call via\u2026</string>
+  <string name="call_recording_category_title">Call recording</string>
+  <string name="call_recording_format">Audio format</string>
 </resources>

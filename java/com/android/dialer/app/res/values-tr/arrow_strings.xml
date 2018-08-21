@@ -34,5 +34,9 @@
   <string name="recentOutgoing_empty">Giden aramanız yok.</string>
   <string name="call_log_show_all_slots">Tüm SIMler</string>
   <string name="call_log_all_calls_header">Tüm aramalar</string>
-  <string name="disable_proximity_sensor_title">Disable proximity sensor</string>
+  <string name="disable_proximity_sensor_title">Yakınlık sensörünü devre dışı bırak</string>
+  <string name="call_via">İle arama</string>
+  <string name="call_via_dialog_title">\u2026 ile aranıyor</string>
+  <string name="call_recording_category_title">Arama kaydı</string>
+  <string name="call_recording_format">Ses formatı</string>
 </resources>
