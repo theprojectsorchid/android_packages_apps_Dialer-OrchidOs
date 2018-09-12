@@ -20,7 +20,7 @@
     <item quantity="one">Воспроизвести запись</item>
     <item quantity="few">Воспроизвести запись</item>
     <item quantity="many">Play recordings</item>
-    <item quantity="other">Play recordings</item>
+    <item quantity="other">Воспроизвести записи</item>
   </plurals>
   <string name="call_playback_no_app_found_toast">Нет приложений для воспроизведения выбранной записи.</string>
 </resources>

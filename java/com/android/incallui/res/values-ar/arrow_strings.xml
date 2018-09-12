@@ -17,12 +17,12 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="call_recording_failed_message">Failed to start call recording</string>
-  <string name="call_recording_file_location">Saved call recording to <xliff:g id="filename">%s</xliff:g></string>
-  <string name="onscreenCallRecordText">Record call</string>
-  <string name="onscreenCallRecordingText">Recording call - <xliff:g id="duration" example="00:10">%1$s</xliff:g></string>
-  <string name="onscreenStopCallRecordText">Stop recording</string>
-  <string name="recording_time_text">Recording</string>
-  <string name="recording_warning_title">Enable call recording?</string>
-  <string name="recording_warning_text">Notice: You are responsible for compliance with any laws, regulations and rules that apply to the use of call recording functionality and the use or distribution of those recordings.</string>
+  <string name="call_recording_failed_message">فشل بدء تسجيل المكالمة</string>
+  <string name="call_recording_file_location">تم حفظ تسجيل المكالمة إلى <xliff:g id="filename">%s </xliff:g></string>
+  <string name="onscreenCallRecordText">تسجيل المكالمة</string>
+  <string name="onscreenCallRecordingText">تسجيل المكالمة - <xliff:g id="duration" example="00:10">%1$s</xliff:g></string>
+  <string name="onscreenStopCallRecordText">إيقاف التسجيل</string>
+  <string name="recording_time_text">جارى التسجيل</string>
+  <string name="recording_warning_title">تمكين تسجيل المكالمات؟</string>
+  <string name="recording_warning_text">ملاحظة: أنت مسؤول عن الامتثال لأي من القوانين والأنظمة والقواعد التي تنطبق على استخدام وظيفة تسجيل المكالمات واستخدام أو توزيع تلك التسجيلات.</string>
 </resources>

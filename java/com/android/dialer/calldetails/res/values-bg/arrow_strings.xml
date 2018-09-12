@@ -17,8 +17,8 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <plurals name="play_recordings">
-    <item quantity="one">Opname afspelen</item>
-    <item quantity="other">Opnames afspelen</item>
+    <item quantity="one">Възпроизвеждане на запис</item>
+    <item quantity="other">Възпроизвеждане на записи</item>
   </plurals>
-  <string name="call_playback_no_app_found_toast">Er kon geen applicatie worden gevonden voor het afspelen van de geselecteerde opname.</string>
+  <string name="call_playback_no_app_found_toast">Не е намерено приложение за възпроизвеждане на избрания запис.</string>
 </resources>

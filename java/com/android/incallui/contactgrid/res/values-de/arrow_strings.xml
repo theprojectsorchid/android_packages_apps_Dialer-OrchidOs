@@ -22,8 +22,8 @@
   <!-- In-call screen: status label for an incoming call that is not answered and forwarded  -->
   <string name="callUnanswered_forwarded">Anruf unbeantwortet und weitergeleitet</string>
   <!-- In-call screen: status label for a call in the "dialing" state that's waiting for the busy remote side -->
-  <string name="incall_connecting_waiting">Calling (waiting\u2026)</string>
+  <string name="incall_connecting_waiting">Rufaufbau (klopft an\u2026)</string>
   <!-- In-call screen: status label for an outgoing call that's routed via a specific
          provider (e.g. MSIM) and is waiting for the busy remote side -->
-  <string name="incall_calling_via_waiting_template">Calling via <xliff:g id="provider_name">%s</xliff:g> (waiting\u2026)</string>
+  <string name="incall_calling_via_waiting_template">Anruf über <xliff:g id="provider_name">%s</xliff:g> (Anklopfen\u2026)</string>
 </resources>
