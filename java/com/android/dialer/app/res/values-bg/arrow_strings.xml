@@ -30,7 +30,7 @@
   <string name="deny">Откажи</string>
   <string name="call_via">Повикване чрез</string>
   <string name="call_via_dialog_title">Повикване чрез\u2026</string>
-  <string name="call_log_stats_title">Statistics</string>
+  <string name="call_log_stats_title">Статистики</string>
   <string name="disable_proximity_sensor_title">Спиране на сензора за близост</string>
   <string name="call_recording_category_title">Запис на разговор</string>
   <string name="call_recording_format">Аудио формат</string>
