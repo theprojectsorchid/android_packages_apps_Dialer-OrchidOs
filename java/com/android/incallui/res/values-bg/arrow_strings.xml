@@ -16,12 +16,12 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="call_recording_failed_message">Неуспешно стартиране на запис на повикването</string>
-  <string name="call_recording_file_location">Записания разговор е запазен в <xliff:g id="filename">%s </xliff:g></string>
-  <string name="onscreenCallRecordText">Запис на разговор</string>
-  <string name="onscreenCallRecordingText">Запис разговор - <xliff:g id="duration" example="00:10">%1$s</xliff:g></string>
-  <string name="onscreenStopCallRecordText">Спри записването</string>
-  <string name="recording_time_text">Записване</string>
-  <string name="recording_warning_title">Разреши записване на разговори?</string>
-  <string name="recording_warning_text">Забележка: Вие сте отговорни за спазването на всички закони, наредби и правила, свързани с използването на функцията запис на повиквания, използването и разпространението на тези записи.</string>
+    <string name="call_recording_failed_message">Неуспешно стартиране на запис на повикването</string>
+    <string name="call_recording_file_location">Записания разговор е запазен в <xliff:g id="filename">%s </xliff:g></string>
+    <string name="onscreenCallRecordText">Запис на разговор</string>
+    <string name="onscreenCallRecordingText">Запис разговор - <xliff:g id="duration" example="00:10">%1$s</xliff:g></string>
+    <string name="onscreenStopCallRecordText">Спри записването</string>
+    <string name="recording_time_text">Записване</string>
+    <string name="recording_warning_title">Разреши записване на разговори?</string>
+    <string name="recording_warning_text">Забележка: Вие сте отговорни за спазването на всички закони, наредби и правила, свързани с използването на функцията запис на повиквания, използването и разпространението на тези записи.</string>
 </resources>

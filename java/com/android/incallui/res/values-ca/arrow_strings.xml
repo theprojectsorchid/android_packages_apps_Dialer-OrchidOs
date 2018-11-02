@@ -16,12 +16,12 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="call_recording_failed_message">No s\'ha pogut començar la gravació de la trucada</string>
-  <string name="call_recording_file_location">La trucada gravada s\'ha desat a <xliff:g id="filename">%s</xliff:g></string>
-  <string name="onscreenCallRecordText">Gravar la trucada</string>
-  <string name="onscreenCallRecordingText">Gravant trucada - <xliff:g id="duration" example="00:10">%1$s</xliff:g></string>
-  <string name="onscreenStopCallRecordText">Parar de gravar</string>
-  <string name="recording_time_text">Gravant</string>
-  <string name="recording_warning_title">Habilitar l\'enregistrament de trucada?</string>
-  <string name="recording_warning_text">Avís: Vostè és responsable del compliment de qualsevol llei, reglament i normes aplicables a l\'ús de la funcionalitat de gravació de trucades, i l\'ús o distribució d\'aquestes gravacions.</string>
+    <string name="call_recording_failed_message">No s\'ha pogut començar la gravació de la trucada</string>
+    <string name="call_recording_file_location">La trucada gravada s\'ha desat a <xliff:g id="filename">%s</xliff:g></string>
+    <string name="onscreenCallRecordText">Gravar la trucada</string>
+    <string name="onscreenCallRecordingText">Gravant trucada - <xliff:g id="duration" example="00:10">%1$s</xliff:g></string>
+    <string name="onscreenStopCallRecordText">Parar de gravar</string>
+    <string name="recording_time_text">Gravant</string>
+    <string name="recording_warning_title">Habilitar l\'enregistrament de trucada?</string>
+    <string name="recording_warning_text">Avís: Vostè és responsable del compliment de qualsevol llei, reglament i normes aplicables a l\'ús de la funcionalitat de gravació de trucades, i l\'ús o distribució d\'aquestes gravacions.</string>
 </resources>
