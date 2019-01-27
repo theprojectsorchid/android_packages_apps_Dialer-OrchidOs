@@ -22,7 +22,7 @@
     <string name="incall_enable_dnd_title">தொந்தரவு செய்ய வேண்டாம் அழைப்புகளின்போது இயக்கவும்</string>
     <string name="incall_vibrate_outgoing_title">பதில்லில் அதிர்வு</string>
     <string name="incall_vibrate_call_waiting_title">அழைப்பு காத்திருப்பு மீது அதிர்வு</string>
-    <string name="incall_vibrate_hangup_title">Vibrate on hang up</string>
+    <string name="incall_vibrate_hangup_title">பதில்லில் அதிர்வு</string>
     <string name="incall_vibrate_45_title">ஒவ்வொரு நிமிடமும் அதிர்வு</string>
     <string name="incall_vibrate_45_summary">வெளிசெல்லும் அழைப்புகளில் ஒவ்வொரு 45 நிமிட இரண்டாவது குறி அதிரும்</string>
     <string name="incall_dnd_dialog_message">In order to enable Do Not Disturb, the Phone app needs to be granted the permission to control the Do Not Disturb status.\nPlease allow it.</string>
