@@ -16,12 +16,12 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="call_recording_failed_message">Failed to start call recording</string>
-    <string name="call_recording_file_location">Saved call recording to <xliff:g id="filename">%s</xliff:g></string>
+    <string name="call_recording_failed_message">Kõne salvestuse alustamine nurjus</string>
+    <string name="call_recording_file_location">Kõne salvestatud kohta <xliff:g id="filename">%s</xliff:g></string>
     <string name="onscreenCallRecordText">Salvesta kõne</string>
-    <string name="onscreenCallRecordingText">Recording call - <xliff:g id="duration" example="00:10">%1$s</xliff:g></string>
+    <string name="onscreenCallRecordingText">Kõne salvestamine - <xliff:g id="duration" example="00:10">%1$s</xliff:g></string>
     <string name="onscreenStopCallRecordText">Lõpeta salvestamine</string>
     <string name="recording_time_text">Salvestan kõne</string>
-    <string name="recording_warning_title">Enable call recording?</string>
-    <string name="recording_warning_text">Notice: You are responsible for compliance with any laws, regulations and rules that apply to the use of call recording functionality and the use or distribution of those recordings.</string>
+    <string name="recording_warning_title">Lubad kõne salvestamise?</string>
+    <string name="recording_warning_text">Märkus: Teie olete kohustatud järgima seaduseid, määruseid ja reegleid, mis käivad kõnede salvestamise funktsiooni ja nende salvestiste jagamise kohta.</string>
 </resources>
