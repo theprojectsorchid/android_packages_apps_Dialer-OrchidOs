@@ -16,7 +16,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="incall_vibration_category_title">In-call vibration</string>
+    <string name="incall_vibration_category_title">Vibration während eines Anrufes</string>
     <string name="incall_vibrate_outgoing_title">Beim Abheben vibrieren</string>
     <string name="incall_vibrate_call_waiting_title">Beim Anklopfen vibrieren</string>
     <string name="incall_vibrate_hangup_title">Beim Auflegen vibrieren</string>
