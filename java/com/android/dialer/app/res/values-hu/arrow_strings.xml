@@ -16,7 +16,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="incall_vibration_category_title">In-call vibration</string>
+    <string name="incall_vibration_category_title">Hívás közbeni rezgés</string>
     <string name="incall_vibrate_outgoing_title">Hívásfogadáskor rezeg</string>
     <string name="incall_vibrate_call_waiting_title">Hívásvárakoztatáskor rezeg</string>
     <string name="incall_vibrate_hangup_title">Hívás bontásakor rezeg</string>
