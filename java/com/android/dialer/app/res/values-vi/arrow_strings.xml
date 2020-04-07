@@ -15,7 +15,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="incall_vibration_category_title">In-call vibration</string>
+    <string name="incall_vibration_category_title">Rung trong khi gọi</string>
     <string name="incall_vibrate_outgoing_title">Rung khi trả lời</string>
     <string name="incall_vibrate_call_waiting_title">Rung khi chờ cuộc gọi</string>
     <string name="incall_vibrate_hangup_title">Rung khi gác máy</string>
