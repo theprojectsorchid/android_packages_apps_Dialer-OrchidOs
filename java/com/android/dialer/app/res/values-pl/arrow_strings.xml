@@ -15,8 +15,8 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="incall_vibration_category_title">In-call vibration</string>
-    <string name="incall_vibrate_outgoing_title">Wibracja przy odebraniu</string>
+    <string name="incall_vibration_category_title">Wibracje w trakcie rozmowy</string>
+    <string name="incall_vibrate_outgoing_title">Wibracja przy rozpoczęciu połączenia</string>
     <string name="incall_vibrate_call_waiting_title">Wibracja przy połączeniu oczekującym</string>
     <string name="incall_vibrate_hangup_title">Wibracja przy zakończeniu połączenia</string>
     <string name="incall_vibrate_45_title">Wibracja co minutę</string>
