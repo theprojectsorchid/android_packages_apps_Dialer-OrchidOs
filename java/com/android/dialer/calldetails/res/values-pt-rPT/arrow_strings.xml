@@ -17,7 +17,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <plurals name="play_recordings">
         <item quantity="one">Reproduzir a gravação</item>
-        <item quantity="other">Play recordings</item>
+        <item quantity="other">Reproduzir as gravações</item>
     </plurals>
     <string name="call_playback_no_app_found_toast">Não foi encontrada nenhuma aplicação para reproduzir a gravação selecionada.</string>
 </resources>

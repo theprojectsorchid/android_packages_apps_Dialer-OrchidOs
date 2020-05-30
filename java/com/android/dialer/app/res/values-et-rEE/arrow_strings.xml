@@ -27,12 +27,12 @@
     <!-- Per-call account selection -->
     <string name="call_via">Helista läbi</string>
     <string name="call_via_dialog_title">Helista läbi\u2026</string>
-    <string name="incall_category_title">In-call</string>
-    <string name="incall_enable_dnd_title">Enable Do Not Disturb during calls</string>
-    <string name="incall_dnd_dialog_message">In order to enable Do Not Disturb, the Phone app needs to be granted the permission to control the Do Not Disturb status.\nPlease allow it.</string>
-    <string name="allow">Allow</string>
-    <string name="deny">Deny</string>
-    <string name="disable_proximity_sensor_title">Disable proximity sensor</string>
-    <string name="disable_proximity_sensor_summary">Do not turn off touchscreen and display in call based on proximity sensor</string>
-    <string name="sensor_settings_titile">Sensors</string>
+    <string name="incall_category_title">Kõnes</string>
+    <string name="incall_enable_dnd_title">Luba Mitte segada kõnede ajal</string>
+    <string name="incall_dnd_dialog_message">Mitte segada režiimi lubamiseks vajab rakendus Telefon luba režiimi Mitte segada juhtimiseks.\nPalun luba see.</string>
+    <string name="allow">Võta vastu</string>
+    <string name="deny">Keeldu</string>
+    <string name="disable_proximity_sensor_title">Keela lähedussensor</string>
+    <string name="disable_proximity_sensor_summary">Ärge lülitage puutetundlikku ekraani välja ja kuvage lähedussensoril põhinevat sissetulevat kõnet</string>
+    <string name="sensor_settings_titile">Andurid</string>
 </resources>
