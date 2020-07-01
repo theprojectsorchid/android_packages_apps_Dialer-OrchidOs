@@ -15,7 +15,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="incall_vibration_category_title">In-call vibration</string>
+    <string name="incall_vibration_category_title">Vibració durant la trucada</string>
     <string name="incall_vibrate_outgoing_title">Vibra en contestar</string>
     <string name="incall_vibrate_call_waiting_title">Vibra amb les trucades en espera</string>
     <string name="incall_vibrate_hangup_title">Vibra en penjar</string>
@@ -27,12 +27,12 @@
     <!-- Per-call account selection -->
     <string name="call_via">Truca a través</string>
     <string name="call_via_dialog_title">Truca a través\u2026</string>
-    <string name="incall_category_title">In-call</string>
-    <string name="incall_enable_dnd_title">Enable Do Not Disturb during calls</string>
-    <string name="incall_dnd_dialog_message">In order to enable Do Not Disturb, the Phone app needs to be granted the permission to control the Do Not Disturb status.\nPlease allow it.</string>
-    <string name="allow">Allow</string>
-    <string name="deny">Deny</string>
-    <string name="disable_proximity_sensor_title">Disable proximity sensor</string>
-    <string name="disable_proximity_sensor_summary">Do not turn off touchscreen and display in call based on proximity sensor</string>
+    <string name="incall_category_title">Durant la trucada</string>
+    <string name="incall_enable_dnd_title">Activar el mode No Molestar durant les trucades</string>
+    <string name="incall_dnd_dialog_message">Per activar el mode No Molestar, l\'aplicació Telèfon cal que compti amb el permís per a controlar l\'estat de No Molestar.\nPermet-ho, si us plau.</string>
+    <string name="allow">Permet</string>
+    <string name="deny">Denega</string>
+    <string name="disable_proximity_sensor_title">Deshabilita el sensor de proximitat</string>
+    <string name="disable_proximity_sensor_summary">No apagar el panell tactil i mostrar el mode dins de trucada basant-se en el sensor de proximitat</string>
     <string name="sensor_settings_titile">Sensors</string>
 </resources>
