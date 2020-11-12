@@ -21,6 +21,6 @@
     <string name="onscreenCallRecordingText">Hívásrögzítés - <xliff:g id="duration" example="00:10">%1$s</xliff:g></string>
     <string name="onscreenStopCallRecordText">A rögzítés leállítása</string>
     <string name="recording_time_text">Felvétel</string>
-    <string name="recording_warning_title">Enable call recording?</string>
-    <string name="recording_warning_text">Notice: You are responsible for compliance with any laws, regulations and rules that apply to the use of call recording functionality and the use or distribution of those recordings.</string>
+    <string name="recording_warning_title">Engedélyezi a hívásrögzítést?</string>
+    <string name="recording_warning_text">Figyelmeztetés: A hívás rögzítésére és a hangfelvétel felhasználására vonatkozó törvények, rendeletek és szabályozások betartásáért Ön tartozik felelősséggel.</string>
 </resources>

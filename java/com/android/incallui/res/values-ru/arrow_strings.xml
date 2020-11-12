@@ -21,6 +21,6 @@
     <string name="onscreenCallRecordingText">Запись разговора - <xliff:g id="duration" example="00:10">%1$s</xliff:g></string>
     <string name="onscreenStopCallRecordText">Остановить запись</string>
     <string name="recording_time_text">Идёт запись...</string>
-    <string name="recording_warning_title">Enable call recording?</string>
-    <string name="recording_warning_text">Notice: You are responsible for compliance with any laws, regulations and rules that apply to the use of call recording functionality and the use or distribution of those recordings.</string>
+    <string name="recording_warning_title">Включить запись разговора?</string>
+    <string name="recording_warning_text">Примечание: Вы несете ответственность за соблюдение любых законов, положений и правил, которые применяются за использование функции записи телефонных разговоров и использование или распространение этих записей.</string>
 </resources>

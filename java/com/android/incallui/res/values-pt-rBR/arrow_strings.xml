@@ -21,6 +21,6 @@
     <string name="onscreenCallRecordingText">Gravando chamada <xliff:g id="duration" example="00:10">%1$s</xliff:g></string>
     <string name="onscreenStopCallRecordText">Parar gravação</string>
     <string name="recording_time_text">Gravando</string>
-    <string name="recording_warning_title">Enable call recording?</string>
-    <string name="recording_warning_text">Notice: You are responsible for compliance with any laws, regulations and rules that apply to the use of call recording functionality and the use or distribution of those recordings.</string>
+    <string name="recording_warning_title">Ativar gravação de chamada?</string>
+    <string name="recording_warning_text">Aviso: Você é responsável pelo cumprimento de todas as leis, regulamentos e regras que se aplicam ao uso da funcionalidade de gravação de chamadas e ao uso ou distribuição dessas gravações.</string>
 </resources>
