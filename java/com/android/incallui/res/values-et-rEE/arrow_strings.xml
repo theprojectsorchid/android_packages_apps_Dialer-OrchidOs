@@ -21,6 +21,6 @@
     <string name="onscreenCallRecordingText">Kõne salvestamine - <xliff:g id="duration" example="00:10">%1$s</xliff:g></string>
     <string name="onscreenStopCallRecordText">Lõpeta salvestamine</string>
     <string name="recording_time_text">Salvestan kõne</string>
-    <string name="recording_warning_title">Enable call recording?</string>
-    <string name="recording_warning_text">Notice: You are responsible for compliance with any laws, regulations and rules that apply to the use of call recording functionality and the use or distribution of those recordings.</string>
+    <string name="recording_warning_title">Luba kõnede salvestamine?</string>
+    <string name="recording_warning_text">Märkus: Teie vastutate kõigi seaduste, määruste ja eeskirjade järgimise eest, mis kehtivad kõne salvestamise funktsiooni kasutamise ja nende salvestiste kasutamise või levitamise suhtes.</string>
 </resources>

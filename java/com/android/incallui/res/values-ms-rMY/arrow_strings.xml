@@ -15,12 +15,12 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="call_recording_failed_message">Failed to start call recording</string>
-    <string name="call_recording_file_location">Saved call recording to <xliff:g id="filename">%s</xliff:g></string>
-    <string name="onscreenCallRecordText">Record call</string>
-    <string name="onscreenCallRecordingText">Recording call - <xliff:g id="duration" example="00:10">%1$s</xliff:g></string>
-    <string name="onscreenStopCallRecordText">Stop recording</string>
-    <string name="recording_time_text">Recording</string>
-    <string name="recording_warning_title">Enable call recording?</string>
-    <string name="recording_warning_text">Notice: You are responsible for compliance with any laws, regulations and rules that apply to the use of call recording functionality and the use or distribution of those recordings.</string>
+    <string name="call_recording_failed_message">Gagal memulakan rakaman</string>
+    <string name="call_recording_file_location">Simpan rakaman panggilan di<xliff:g id="filename">%s</xliff:g></string>
+    <string name="onscreenCallRecordText">Rakam panggilan</string>
+    <string name="onscreenCallRecordingText">Rakam panggilan - <xliff:g id="duration" example="00:10">%1$s</xliff:g></string>
+    <string name="onscreenStopCallRecordText">Hentikan rakaman</string>
+    <string name="recording_time_text">Merakam</string>
+    <string name="recording_warning_title">Aktifkan rakaman panggilan?</string>
+    <string name="recording_warning_text">Pemberitahuan: Anda bertanggung jawab untuk mematuhi setiap undang-undang dan peraturan yang ditetapkan untuk penggunaan fungsi perakaman panggilan dan penggunaan atau pengedaran rakaman tersebut.</string>
 </resources>
