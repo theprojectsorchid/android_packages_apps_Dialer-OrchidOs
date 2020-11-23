@@ -22,7 +22,7 @@
     <string name="incall_vibrate_call_waiting_title">Vibrar com chamada em espera</string>
     <string name="incall_vibrate_hangup_title">Vibrar ao terminar</string>
     <string name="incall_vibrate_45_title">Vibrar a cada minuto</string>
-    <string name="incall_vibrate_45_summary">Vibrar a cada 45 segundos durante chamadas efetuadas</string>
+    <string name="incall_vibrate_45_summary">Vibrar a cada 45 segundos durante chamadas efectuadas</string>
     <string name="incall_dnd_dialog_message">Para activar Não perturbar, a aplicação Telefone precisa de permissão para controlar o estado Não perturbe.\nPor favor, permita-o.</string>
     <string name="allow">Permitir</string>
     <string name="deny">Negar</string>
@@ -30,5 +30,5 @@
     <string name="call_recording_format">Formato de áudio</string>
     <string name="call_via">Chamar através de</string>
     <string name="call_via_dialog_title">Chamar através de\u2026</string>
-    <string name="call_log_stats_title">Statistics</string>
+    <string name="call_log_stats_title">Estatísticas</string>
 </resources>

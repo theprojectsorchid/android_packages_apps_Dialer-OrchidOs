@@ -21,6 +21,6 @@
     <string name="onscreenCallRecordingText">Виклик записується - <xliff:g id="duration" example="00:10">%1$s</xliff:g></string>
     <string name="onscreenStopCallRecordText">Зупинити запис</string>
     <string name="recording_time_text">Йде запис</string>
-    <string name="recording_warning_title">Enable call recording?</string>
-    <string name="recording_warning_text">Notice: You are responsible for compliance with any laws, regulations and rules that apply to the use of call recording functionality and the use or distribution of those recordings.</string>
+    <string name="recording_warning_title">Увімкнути запис дзвінків?</string>
+    <string name="recording_warning_text">Зверніть увагу: Ви несете відповідальність за дотримання будь-яких законів, правил та обмежень, що стосуються використання функції запису дзвінків і використання або розповсюдження цих записів.</string>
 </resources>
