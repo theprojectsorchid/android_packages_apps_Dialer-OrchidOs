@@ -21,6 +21,6 @@
     <string name="onscreenCallRecordingText">Merekam panggilan - <xliff:g id="duration" example="00:10">%1$s</xliff:g></string>
     <string name="onscreenStopCallRecordText">Berhenti merekam</string>
     <string name="recording_time_text">Merekam</string>
-    <string name="recording_warning_title">Enable call recording?</string>
-    <string name="recording_warning_text">Notice: You are responsible for compliance with any laws, regulations and rules that apply to the use of call recording functionality and the use or distribution of those recordings.</string>
+    <string name="recording_warning_title">Aktifkan perekam panggilan?</string>
+    <string name="recording_warning_text">Perhatian: Anda akan bertanggung jawab untuk mematuhi setiap hukum, peraturan dan aturan yang berlaku untuk penggunaan perekam panggilan atau distribusi rekaman tersebut.</string>
 </resources>
