@@ -16,11 +16,11 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="call_recording_failed_message">Αποτυχία έναρξης της καταγραφής κλήσης</string>
-    <string name="call_recording_file_location">Η εγγραφή αποθηκεύτηκε στο <xliff:g id="filename">%s</xliff:g></string>
+    <string name="call_recording_file_location">Η εγγραφή αποθηκεύτηκε στο <xliff:g id="όνομα αρχείου">%s</xliff:g></string>
     <string name="onscreenCallRecordText">Ηχογράφηση κλήσης</string>
-    <string name="onscreenCallRecordingText">Ηχογράφηση κλήσης -%1$s<xliff:g id="duration" example="00:10"></xliff:g></string>
+    <string name="onscreenCallRecordingText">Ηχογράφηση κλήσης -%1$s<xliff:g id="διαρκεια" παράδειγμα="00:10"></xliff:g></string>
     <string name="onscreenStopCallRecordText">Τέλος ηχογράφησης</string>
     <string name="recording_time_text">Γίνεται εγγραφή</string>
-    <string name="recording_warning_title">Enable call recording?</string>
-    <string name="recording_warning_text">Notice: You are responsible for compliance with any laws, regulations and rules that apply to the use of call recording functionality and the use or distribution of those recordings.</string>
+    <string name="recording_warning_title">Ενεργοποίηση καταγραφής κλήσης;</string>
+    <string name="recording_warning_text">Σημείωση: Είστε υπεύθυνοι για τη συμμόρφωση με τυχόν νόμους, κανονισμούς και κανόνες που ισχύουν για τη χρήση της λειτουργίας εγγραφής κλήσεων και τη χρήση ή διανομή αυτών των εγγραφών.</string>
 </resources>
