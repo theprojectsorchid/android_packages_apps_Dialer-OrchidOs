@@ -31,4 +31,7 @@
     <string name="call_via">Volat prostřednictvím</string>
     <string name="call_via_dialog_title">Volat prostřednictvím\u2026</string>
     <string name="call_log_stats_title">Statistiky</string>
+    <string name="disable_proximity_sensor_title">Zakázat senzor přiblížení</string>
+    <string name="disable_proximity_sensor_summary">Na základě přiblížení nebude obrazovka vypnuta během hovoru</string>
+    <string name="sensor_settings_titile">Senzory</string>
 </resources>
