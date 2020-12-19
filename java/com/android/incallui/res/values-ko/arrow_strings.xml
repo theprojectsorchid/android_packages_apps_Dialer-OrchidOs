@@ -21,6 +21,6 @@
     <string name="onscreenCallRecordingText">통화 녹음 중 - <xliff:g id="duration" example="00:10">%1$s</xliff:g></string>
     <string name="onscreenStopCallRecordText">녹음 중지</string>
     <string name="recording_time_text">녹음 중</string>
-    <string name="recording_warning_title">Enable call recording?</string>
-    <string name="recording_warning_text">Notice: You are responsible for compliance with any laws, regulations and rules that apply to the use of call recording functionality and the use or distribution of those recordings.</string>
+    <string name="recording_warning_title">통화 녹음을 사용하시겠습니까?</string>
+    <string name="recording_warning_text">주의 사항: 당신은 통화 녹음 기능을 사용하거나 녹음을 배포 또는 사용하는 데에 있어 모든 법률, 규정 및 규칙 준수에 대한 책임을 가집니다.</string>
 </resources>
