@@ -22,5 +22,5 @@
     <string name="onscreenStopCallRecordText">Aufnahme beenden</string>
     <string name="recording_time_text">Wird aufgenommen</string>
     <string name="recording_warning_title">Anrufaufzeichnung aktivieren?</string>
-    <string name="recording_warning_text">Notice: You are responsible for compliance with any laws, regulations and rules that apply to the use of call recording functionality and the use or distribution of those recordings.</string>
+    <string name="recording_warning_text">Hinweis: Sie sind dafür verantwortlich, dass alle Gesetze, Vorschriften und Regeln für die Verwendung der Anrufaufzeichnung eingehalten werden.</string>
 </resources>

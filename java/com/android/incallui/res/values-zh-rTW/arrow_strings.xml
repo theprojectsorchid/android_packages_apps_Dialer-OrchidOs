@@ -21,6 +21,6 @@
     <string name="onscreenCallRecordingText">通話錄音 - <xliff:g id="duration" example="00:10">%1$s</xliff:g></string>
     <string name="onscreenStopCallRecordText">停止錄音</string>
     <string name="recording_time_text">錄音設定</string>
-    <string name="recording_warning_title">Enable call recording?</string>
-    <string name="recording_warning_text">Notice: You are responsible for compliance with any laws, regulations and rules that apply to the use of call recording functionality and the use or distribution of those recordings.</string>
+    <string name="recording_warning_title">啟用通話錄音？</string>
+    <string name="recording_warning_text">注意：您有責任遵守任何適用於規範使用通話錄音功能和發佈這些錄音的法律、法規或規章。</string>
 </resources>
