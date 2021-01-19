@@ -19,19 +19,19 @@
     <string name="incall_category_title">ᱤᱱᱼᱠᱟᱹᱞ</string>
     <string name="incall_enable_dnd_title">ᱠᱟᱹᱞ ᱡᱷᱚᱜ ᱰᱩ ᱱᱚᱴ ᱰᱤᱥᱴᱚᱨᱵᱽ ᱮᱢ ᱪᱷᱚᱭ ᱢᱮ</string>
     <string name="incall_vibrate_outgoing_title">ᱠᱟᱛᱷᱟᱜ ᱡᱷᱚᱜ ᱣᱟᱭᱵᱨᱮᱴ ᱢᱮ</string>
-    <string name="incall_vibrate_call_waiting_title">ᱠᱚᱞ ᱛᱟᱸᱜᱤ ᱡᱷᱚᱜᱽ ᱛᱷᱟᱨ ᱛᱷᱟᱨᱟᱣ ᱢᱮ</string>
+    <string name="incall_vibrate_call_waiting_title">ᱠᱚᱞ ᱛᱟᱸᱜᱤ ᱡᱷᱚᱜ ᱛᱷᱟᱨ ᱛᱷᱟᱨᱟᱣ ᱢᱮ</string>
     <string name="incall_vibrate_hangup_title">ᱪᱟᱹᱞ ᱠᱟᱛᱤ ᱡᱷᱚᱜ ᱣᱟᱭᱵᱨᱮᱴ ᱢᱮ</string>
     <string name="incall_vibrate_45_title">ᱡᱷᱚᱛᱚ ᱴᱤᱯᱤᱡ ᱣᱟᱭᱵᱨᱮᱴ ᱢᱮ</string>
     <string name="incall_vibrate_45_summary">ᱵᱟᱦᱨᱮ ᱪᱟᱞᱟᱜ ᱠᱟᱱ ᱠᱚᱞ ᱡᱷᱚᱜ ᱡᱷᱚᱛᱚ ᱔᱕ ᱴᱤᱡ ᱪᱤᱱᱦᱟᱹ ᱯᱚᱨᱮ ᱣᱟᱭᱵᱨᱮᱴ ᱢᱮ</string>
-    <string name="incall_dnd_dialog_message">In order to enable Do Not Disturb, the Phone app needs to be granted the permission to control the Do Not Disturb status.\nPlease allow it.</string>
+    <string name="incall_dnd_dialog_message">ᱟᱠᱚ ᱦᱟᱨᱠᱮᱛ ᱢᱚᱰ ᱠᱚ ᱮᱢ ᱪᱷᱚ ᱞᱟᱹᱜᱤᱫ, ᱠᱷᱚᱱ ᱮᱯ ᱚᱱᱟ ᱢᱚᱰ ᱚᱱᱤᱢᱚᱛᱤᱰ ᱮᱢ ᱛᱮ ᱦᱩᱭᱟᱭᱟ ᱾\nᱫᱚᱭᱟᱠᱟᱛᱮ ᱮᱢ ᱪᱷᱚᱭ ᱢᱮ ᱾</string>
     <string name="allow">ᱵᱟᱛᱟᱣᱮᱢ</string>
     <string name="deny">ᱢᱟᱱᱟ</string>
     <string name="call_recording_category_title">ᱠᱟᱞ ᱨᱮᱠᱚᱰᱤᱝ</string>
     <string name="call_recording_format">ᱥᱟᱲᱮ ᱯᱷᱚᱨᱢᱟᱴ</string>
     <string name="call_via">ᱠᱟᱞ ᱣᱟᱭᱟ</string>
     <string name="call_via_dialog_title">ᱠᱟᱞ ᱣᱟᱭᱟ\u2026</string>
-    <string name="call_log_stats_title">Statistics</string>
-    <string name="disable_proximity_sensor_title">Disable proximity sensor</string>
-    <string name="disable_proximity_sensor_summary">Do not turn off touchscreen and display in call based on proximity</string>
-    <string name="sensor_settings_titile">Sensors</string>
+    <string name="call_log_stats_title">ᱥᱴᱟᱴᱤᱥᱴᱤᱠᱥ</string>
+    <string name="disable_proximity_sensor_title">ᱯᱨᱚᱠᱥᱤᱢᱤᱴᱭ ᱥᱮᱱᱥᱚᱨ ᱵᱚᱸᱫᱚᱭ ᱢᱮ</string>
+    <string name="disable_proximity_sensor_summary">ᱯᱨᱚᱠᱥᱤᱢᱤᱴᱭ ᱡᱩᱲᱟᱹᱣ ᱠᱚᱞ ᱫᱮᱠᱷᱟᱣ ᱟᱨ ᱴᱚᱪᱥᱠᱨᱤᱱ ᱟᱠᱚ ᱵᱚᱸᱫ</string>
+    <string name="sensor_settings_titile">ᱥᱮᱱᱥᱚᱨᱠᱚ</string>
 </resources>
