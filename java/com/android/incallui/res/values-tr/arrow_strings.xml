@@ -21,6 +21,6 @@
     <string name="onscreenCallRecordingText">Arama kaydı - <xliff:g id="duration" example="00:10">%1$s</xliff:g></string>
     <string name="onscreenStopCallRecordText">Kaydı durdur</string>
     <string name="recording_time_text">Kayıt ediliyor</string>
-    <string name="recording_warning_title">Çağrı kaydetme etkinleştirilsin mi?</string>
+    <string name="recording_warning_title">Arama kaydı etkinleştirilsin mi?</string>
     <string name="recording_warning_text">Uyarı: Çağrı kaydetmenin kullanımı ve bu kayıtların kullanılması veya dağıtımı için geçerli olan tüm yasalara, düzenlemelere ve kurallara uyulmasından siz sorumlusunuz.</string>
 </resources>
