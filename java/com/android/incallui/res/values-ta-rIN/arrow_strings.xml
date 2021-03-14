@@ -21,6 +21,6 @@
     <string name="onscreenCallRecordingText">அழைப்பு பதிவு செய்யப்படுகிறது- <xliff:g id="duration" example="00:10">%1$s</xliff:g></string>
     <string name="onscreenStopCallRecordText">பதிவுசெய்வதை நிறுத்து</string>
     <string name="recording_time_text">பதிவுசெய்தல்</string>
-    <string name="recording_warning_title">Enable call recording?</string>
-    <string name="recording_warning_text">Notice: You are responsible for compliance with any laws, regulations and rules that apply to the use of call recording functionality and the use or distribution of those recordings.</string>
+    <string name="recording_warning_title">அழைப்பு பதிவு இயக்கவா?</string>
+    <string name="recording_warning_text">அறிவிப்பு: அழைப்பு பதிவு செயல்பாட்டின் பயன்பாட்டிற்கும் அந்த பதிவுகளின் பயன்பாடு அல்லது விநியோகத்திற்கும் பொருந்தும் எந்த சட்டங்கள், விதிமுறைகள் மற்றும் விதிகள் ஆகியவற்றிற்கும் நீங்கள் பொறுப்பானவர்.</string>
 </resources>
