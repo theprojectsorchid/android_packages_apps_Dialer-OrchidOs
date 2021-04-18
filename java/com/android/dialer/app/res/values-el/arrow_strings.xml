@@ -18,11 +18,6 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="incall_category_title">Σε κλήση</string>
     <string name="incall_enable_dnd_title">Ενεργοποίηση Μην Ενοχλείτε κατά τις κλήσεις</string>
-    <string name="incall_vibrate_outgoing_title">Δόνηση κατά την απάντηση</string>
-    <string name="incall_vibrate_call_waiting_title">Δόνηση στην αναμονή κλήσης</string>
-    <string name="incall_vibrate_hangup_title">Δόνηση στο κλείσιμο</string>
-    <string name="incall_vibrate_45_title">Δόνηση κάθε 1 λεπτό</string>
-    <string name="incall_vibrate_45_summary">Δόνηση στο 45ο δευτερόλεπτο κάθε λεπτού κατά τη διάρκεια εξερχόμενων κλήσεων</string>
     <string name="incall_dnd_dialog_message">Για να ενεργοποιήσετε τη λειτουργία \"Μην ενοχλείτε\", στην εφαρμογή \"Τηλέφωνο\" πρέπει να παραχωρηθεί η άδεια ελέγχου της κατάστασης \"Μην ενοχλείτε\".\nΠαρακαλώ επιτρέψτε το.</string>
     <string name="allow">Επιτρέψτε</string>
     <string name="deny">Άρνηση</string>

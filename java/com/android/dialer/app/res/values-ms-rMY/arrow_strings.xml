@@ -18,11 +18,6 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="incall_category_title">Dalam panggilan</string>
     <string name="incall_enable_dnd_title">Aktifkan Tiada Gangguan semasa panggilan</string>
-    <string name="incall_vibrate_outgoing_title">Bergetar apabila menjawab</string>
-    <string name="incall_vibrate_call_waiting_title">Bergetar pada panggilan menunggu</string>
-    <string name="incall_vibrate_hangup_title">Bergetar pada \"hang-up\"</string>
-    <string name="incall_vibrate_45_title">Bergetar setiap minit</string>
-    <string name="incall_vibrate_45_summary">Vibrates pada saat ke 45 setiap minit semasa panggilan keluar</string>
     <string name="incall_dnd_dialog_message">Bagi mengaktifkan Tiada Gangguan, aplikasi Phone perlu diberi kebenaran untuk mengawal status Tiada Gangguan. \nSila benarkan.</string>
     <string name="allow">Benarkan</string>
     <string name="deny">Nafi</string>

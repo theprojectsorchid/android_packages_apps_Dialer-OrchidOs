@@ -18,11 +18,6 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="incall_category_title">Durant la trucada</string>
     <string name="incall_enable_dnd_title">Activar el mode No Molestar durant les trucades</string>
-    <string name="incall_vibrate_outgoing_title">Vibra en contestar</string>
-    <string name="incall_vibrate_call_waiting_title">Vibra amb les trucades en espera</string>
-    <string name="incall_vibrate_hangup_title">Vibra en penjar</string>
-    <string name="incall_vibrate_45_title">Vibra cada minut</string>
-    <string name="incall_vibrate_45_summary">Vibra als 45 segons de cada minut durant les trucades sortints</string>
     <string name="incall_dnd_dialog_message">Per activar el mode No Molestar, l\'aplicació Telèfon cal que compti amb el permís per a controlar l\'estat de No Molestar.\nPermet-ho, si us plau.</string>
     <string name="allow">Permet</string>
     <string name="deny">Denega</string>

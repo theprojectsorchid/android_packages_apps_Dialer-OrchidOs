@@ -18,11 +18,6 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="incall_category_title">Kõnes</string>
     <string name="incall_enable_dnd_title">Luba Mitte segada kõnede ajal</string>
-    <string name="incall_vibrate_outgoing_title">Vibreeri vastamisel</string>
-    <string name="incall_vibrate_call_waiting_title">Vibreeri kõne koputusel</string>
-    <string name="incall_vibrate_hangup_title">Vibreeri kõne lõppemisel</string>
-    <string name="incall_vibrate_45_title">Vibreeri iga minuti tagant</string>
-    <string name="incall_vibrate_45_summary">Vibreerib 45 sekundi tagant igas minutis väljaminevate kõnede puhul</string>
     <string name="incall_dnd_dialog_message">Mitte segada režiimi lubamiseks vajab rakendus Telefon luba režiimi Mitte segada juhtimiseks.\nPalun luba see.</string>
     <string name="allow">Võta vastu</string>
     <string name="deny">Keeldu</string>

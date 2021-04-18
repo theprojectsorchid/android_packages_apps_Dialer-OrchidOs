@@ -22,5 +22,5 @@
     <string name="onscreenStopCallRecordText">Oprește înregistrarea</string>
     <string name="recording_time_text">Se înregistrează</string>
     <string name="recording_warning_title">Activaţi înregistrarea apelurilor?</string>
-    <string name="recording_warning_text">Notice: You are responsible for compliance with any laws, regulations and rules that apply to the use of call recording functionality and the use or distribution of those recordings.</string>
+    <string name="recording_warning_text">Observație: Sunteți responsabil pentru respectarea oricăror legi, reglementări și reguli care se aplică utilizării funcției de înregistrare a apelurilor și utilizării sau distribuției acestor înregistrări.</string>
 </resources>

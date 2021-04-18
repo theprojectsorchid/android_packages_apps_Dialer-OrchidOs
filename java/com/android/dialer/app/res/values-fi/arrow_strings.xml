@@ -18,11 +18,6 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="incall_category_title">Puhelu käynnissä</string>
     <string name="incall_enable_dnd_title">Ota \"Älä häiritse\"-tila käyttöön puheluiden aikana</string>
-    <string name="incall_vibrate_outgoing_title">Värinä vastatessa</string>
-    <string name="incall_vibrate_call_waiting_title">Värinä puhelun odottaessa</string>
-    <string name="incall_vibrate_hangup_title">Värinä puhelun loputtua</string>
-    <string name="incall_vibrate_45_title">Värinä joka minuutti</string>
-    <string name="incall_vibrate_45_summary">Värinä joka minuutti 45 sekunnin kohdalla lähtevien puheluiden aikana</string>
     <string name="incall_dnd_dialog_message">Ottaaksesi \"Älä häiritse\"-tila käyttöön, Puhelin-sovellukselle täytyy antaa käyttöoikeus hallita \"Älä-häiritse\"-tilaa.\nSalli se.</string>
     <string name="allow">Salli</string>
     <string name="deny">Estä</string>

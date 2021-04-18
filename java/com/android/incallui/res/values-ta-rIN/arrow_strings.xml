@@ -16,8 +16,8 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="call_recording_failed_message">அழைப்பு பதிவு துவக்க இயலவில்லை</string>
-    <string name="call_recording_file_location">அழைப்பு பதிவு செய்து <xliff:g id="filename">%s</xliff:g>க்கு சேமிக்கப்பட்டது</string>
-    <string name="onscreenCallRecordText">அழைப்பைப் பதிவு செய்</string>
+    <string name="call_recording_file_location">அழைப்பு பதிவு <xliff:g id="filename">%s</xliff:g>இல் சேமிக்கப்பட்டது</string>
+    <string name="onscreenCallRecordText">அழைப்பைப் பதிவுசெய்</string>
     <string name="onscreenCallRecordingText">அழைப்பு பதிவு செய்யப்படுகிறது- <xliff:g id="duration" example="00:10">%1$s</xliff:g></string>
     <string name="onscreenStopCallRecordText">பதிவுசெய்வதை நிறுத்து</string>
     <string name="recording_time_text">பதிவுசெய்தல்</string>

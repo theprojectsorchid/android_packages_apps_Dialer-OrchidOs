@@ -18,11 +18,6 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="incall_category_title">В разговор</string>
     <string name="incall_enable_dnd_title">Активирай режим \"Не безпокойте\" по време на разговор</string>
-    <string name="incall_vibrate_outgoing_title">Вибрирай при отговор</string>
-    <string name="incall_vibrate_call_waiting_title">Вибрация при изчакващо повикване</string>
-    <string name="incall_vibrate_hangup_title">Вибрация при затваряне</string>
-    <string name="incall_vibrate_45_title">Вибрирай всяка минута</string>
-    <string name="incall_vibrate_45_summary">Ще вибрира на всяка 45-та секунда от минутата по време на изходящи повиквания</string>
     <string name="incall_dnd_dialog_message">За да активирате режима \"Не безпокойте\", приложението \"Телефон\" трябва да получи разрешение да контролира състоянието на режима \"Не ме безпокойте\".\n Моля позволете го.</string>
     <string name="allow">Позволи</string>
     <string name="deny">Откажи</string>

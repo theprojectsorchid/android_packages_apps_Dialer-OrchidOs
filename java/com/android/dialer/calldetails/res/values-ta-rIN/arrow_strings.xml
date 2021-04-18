@@ -19,5 +19,5 @@
         <item quantity="one">பதிவை இயக்கு</item>
         <item quantity="other">பதிகளை இயக்கு</item>
     </plurals>
-    <string name="call_playback_no_app_found_toast">தேர்வுசெய்த பிடிப்பை இயக்கவதற்கான செயலி எதுவும் காண முடியவில்லை.</string>
+    <string name="call_playback_no_app_found_toast">தேர்வுசெய்த பதிவை இயக்க செயலி ஏதுமில்லை.</string>
 </resources>
