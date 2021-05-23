@@ -18,7 +18,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="incall_category_title">Em chamada</string>
     <string name="incall_enable_dnd_title">Activar Não Incomodar durante as chamadas</string>
-    <string name="incall_dnd_dialog_message">Para activar Não perturbar, a aplicação Telefone precisa de permissão para controlar o estado Não perturbe.\nPor favor, permita-o.</string>
+    <string name="incall_dnd_dialog_message">Para activar Não Perturbar, a aplicação Telefone precisa de permissão para controlar o estado NãoPerturbar.\nPor favor, permita-o.</string>
     <string name="allow">Permitir</string>
     <string name="deny">Negar</string>
     <string name="call_recording_category_title">Gravação de chamadas</string>
