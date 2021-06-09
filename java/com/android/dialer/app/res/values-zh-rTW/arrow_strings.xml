@@ -27,6 +27,6 @@
     <string name="call_via_dialog_title">來電透過\u2026</string>
     <string name="call_log_stats_title">統計</string>
     <string name="disable_proximity_sensor_title">禁用距離感應器</string>
-    <string name="disable_proximity_sensor_summary">基于距离感應器以在通話中不關閉觸摸操作和螢幕顯示</string>
+    <string name="disable_proximity_sensor_summary">基於距離感應器以在通話中不關閉觸摸操作和螢幕顯示</string>
     <string name="sensor_settings_titile">感應器</string>
 </resources>
