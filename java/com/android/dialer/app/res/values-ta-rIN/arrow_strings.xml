@@ -16,7 +16,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="incall_category_title">அழைப்பில்</string>
+    <string name="incall_category_title">அழைப்பின்-உள்</string>
     <string name="incall_enable_dnd_title">தொந்தரவு செய்யாதீர்கள் அழைப்புகளின்போது இயக்கவும்</string>
     <string name="incall_dnd_dialog_message">\"தொந்தரவு செய்யாதீர்கள்\" என்பதை இயக்க, தொலைபேசி பயன்பாட்டிற்கு \"தொந்தரவு செய்யாதீர்கள்\" நிலையைக் கட்டுப்படுத்த அனுமதி வழங்கப்பட வேண்டும்.\nதயவுசெய்து அனுமதி.</string>
     <string name="allow">அனுமதி</string>

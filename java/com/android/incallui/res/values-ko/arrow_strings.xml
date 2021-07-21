@@ -22,5 +22,5 @@
     <string name="onscreenStopCallRecordText">녹음 중지</string>
     <string name="recording_time_text">녹음 중</string>
     <string name="recording_warning_title">통화 녹음을 사용하시겠습니까?</string>
-    <string name="recording_warning_text">주의 사항: 당신은 통화 녹음 기능을 사용하거나 녹음을 배포 또는 사용하는 데에 있어 모든 법률, 규정 및 규칙 준수에 대한 책임을 가집니다.</string>
+    <string name="recording_warning_text">주의 사항: 당신은 통화 녹음 기능을 사용하거나 녹음을 배포 또는 사용하는 데에 있어 모든 법률, 규정 및 규칙 준수에 대한 책임이 있습니다.</string>
 </resources>
