@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2013-2014 The CyanogenMod Project
+     Copyright (C) 2018 The LineageOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="incall_category_title">Dalam panggilan</string>
+    <string name="incall_enable_dnd_title">Aktifkan Tiada Gangguan semasa panggilan</string>
+    <string name="incall_dnd_dialog_message">Bagi mengaktifkan Tiada Gangguan, aplikasi Phone perlu diberi kebenaran untuk mengawal status Tiada Gangguan. \nSila benarkan.</string>
+    <string name="allow">Benarkan</string>
+    <string name="deny">Nafi</string>
+    <string name="call_recording_category_title">Panggilan dirakam</string>
+    <string name="call_recording_format">Format audio</string>
+    <string name="call_via">Panggilan melalui</string>
+    <string name="call_via_dialog_title">Panggilan melalui\u2026</string>
+    <string name="disable_proximity_sensor_title">Nyahaktif sensor jarak</string>
+    <string name="disable_proximity_sensor_summary">Jangan matikan layarsentuh dan paparkan dalam panggilan berdasarkan jarak</string>
+    <string name="sensor_settings_titile">Sensors</string>
+</resources>
