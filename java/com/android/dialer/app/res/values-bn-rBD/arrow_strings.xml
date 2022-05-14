@@ -16,16 +16,16 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="incall_category_title">Puhelu käynnissä</string>
-    <string name="incall_enable_dnd_title">Ota \"Älä häiritse\"-tila käyttöön puheluiden aikana</string>
-    <string name="incall_dnd_dialog_message">Ottaaksesi \"Älä häiritse\"-tila käyttöön, Puhelin-sovellukselle täytyy antaa käyttöoikeus hallita \"Älä-häiritse\"-tilaa.\nSalli se.</string>
-    <string name="allow">Salli</string>
-    <string name="deny">Estä</string>
-    <string name="call_recording_category_title">Puhelun nauhoitus</string>
-    <string name="call_recording_format">Äänimuoto</string>
-    <string name="call_via">Soita käyttäen</string>
-    <string name="call_via_dialog_title">Soita käyttäen\u2026</string>
+    <string name="incall_category_title">In-call</string>
+    <string name="incall_enable_dnd_title">Enable Do Not Disturb during calls</string>
+    <string name="incall_dnd_dialog_message">In order to enable Do Not Disturb, the Phone app needs to be granted the permission to control the Do Not Disturb status.\nPlease allow it.</string>
+    <string name="allow">Allow</string>
+    <string name="deny">Deny</string>
+    <string name="call_recording_category_title">Call recording</string>
+    <string name="call_recording_format">Audio format</string>
+    <string name="call_via">Call via</string>
+    <string name="call_via_dialog_title">Call via\u2026</string>
     <string name="disable_proximity_sensor_title">Disable proximity sensor</string>
     <string name="disable_proximity_sensor_summary">Do not turn off touchscreen and display in call based on proximity</string>
-    <string name="sensor_settings_titile">Anturit</string>
+    <string name="sensor_settings_titile">Sensors</string>
 </resources>
