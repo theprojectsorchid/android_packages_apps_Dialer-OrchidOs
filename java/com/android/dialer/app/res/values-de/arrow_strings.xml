@@ -19,13 +19,13 @@
     <string name="incall_category_title">Im Gespräch</string>
     <string name="incall_enable_dnd_title">\"Bitte nicht stören\" während Anrufen aktivieren</string>
     <string name="incall_dnd_dialog_message">Um \"Bitte nicht stören\" aktivieren zu können, benötigt die Telefon-App die Berechtigung, den \"Bitte nicht stören\"-Status zu kontrollieren.\nBitte dies erlauben.</string>
-    <string name="allow">Zulassen</string>
+    <string name="allow">Erlauben</string>
     <string name="deny">Verweigern</string>
     <string name="call_recording_category_title">Gesprächsaufzeichnung</string>
     <string name="call_recording_format">Audioformat</string>
     <string name="call_via">Anrufen über</string>
     <string name="call_via_dialog_title">Anrufen über\u2026</string>
     <string name="disable_proximity_sensor_title">Näherungssensor deaktivieren</string>
-    <string name="disable_proximity_sensor_summary">Bildschirm und Touchscreen während eines Anrufs nicht anhand des Sensors ausschalten</string>
+    <string name="disable_proximity_sensor_summary">Bildschirm nicht ausschalten wenn der Näherungssensor beim Anruf benutzt wird</string>
     <string name="sensor_settings_titile">Sensoren</string>
 </resources>
